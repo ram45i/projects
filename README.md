@@ -1,1 +1,1 @@
-this file contains sanke game for my school project 
+this file contains snake game code for my school project 
