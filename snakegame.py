@@ -16,6 +16,8 @@ snake = turtle.Turtle()
 snake.speed(0)
 snake.shape("square")
 snake.color("black")
+snake.penup()
+snake.goto(0,0)
 snake.direction = "stop"
 
 
@@ -121,8 +123,10 @@ while True:
         y = snake.ycor()
         segments[0].goto(x,y)
 
-    move()    
-
+    move()
+    
+    time.sleep(delay)
+    
 
 sc.mainloop()
 
