@@ -10,9 +10,9 @@ this file contains snake game code for my school project
    sudo apt-get install python3-tk
    ```
 # USING PIP 
-    ```
-    pip install tk
-    ```
+```
+pip install tk
+```
 If above command didn't work 
 1. create a virtual environment ()
    ```
