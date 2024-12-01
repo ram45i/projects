@@ -6,13 +6,13 @@ this file contains snake game code for my school project
    ```
 2. Download tk
    
-  ```
-  sudo apt-get install python3-tk
-  ```
+   ```
+   sudo apt-get install python3-tk
+   ```
 # USING PIP 
-```
-pip install tk
-```
+    ```
+    pip install tk
+    ```
 If above command didn't work 
 1. create a virtual environment ()
    ```
@@ -24,10 +24,10 @@ If above command didn't work
    ```
 3. Download tk
 
-```
-pip install tk
-```
+   ```
+   pip install tk
+   ```
 # DON'T FORGET TO UPDATE && UPGRADE
-```
-sudo apt update && upgrade
-```
+    ```
+    sudo apt update && upgrade
+    ```
