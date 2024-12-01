@@ -13,7 +13,7 @@ this file contains snake game code for my school project
 ```
 pip install tk
 ```
-If above command didn't work 
+If above command didn't work, follow these steps:
 1. create a virtual environment ()
    ```
    python3 -m venv myenv
