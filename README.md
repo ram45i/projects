@@ -29,5 +29,5 @@ If above command didn't work, follow these steps:
    ```
 # DON'T FORGET TO UPDATE && UPGRADE
 ```
-sudo apt-get update && upgrade
+sudo apt-get update && sudo apt-get upgrade
 ```
