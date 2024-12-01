@@ -28,6 +28,6 @@ If above command didn't work, follow these steps:
    pip install tk
    ```
 # DON'T FORGET TO UPDATE && UPGRADE
-    ```
-    sudo apt update && upgrade
-    ```
+```
+sudo apt update && upgrade
+```
